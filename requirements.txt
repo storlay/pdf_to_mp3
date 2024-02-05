@@ -1,0 +1,15 @@
+art==6.1
+certifi==2024.2.2
+cffi==1.16.0
+charset-normalizer==3.3.2
+click==8.1.7
+cryptography==42.0.2
+gTTS==2.5.1
+idna==3.6
+pdfminer.six==20221105
+pdfplumber==0.10.3
+pillow==10.2.0
+pycparser==2.21
+pypdfium2==4.26.0
+requests==2.31.0
+urllib3==2.2.0
